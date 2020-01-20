@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Justice Template
+  name: Template
   links:
     - https://github.com/CloudCannon/justice-jekyll-template
 
@@ -47,7 +47,7 @@ defaults:
       layout: post
       _options:
         content:
-          width: 960
+          width: 2960
           height: 2000
       _comments:
         image: Shown in social shares and the advice list.
