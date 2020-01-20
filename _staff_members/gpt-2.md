@@ -1,8 +1,8 @@
 ---
-name: John Doe
-image: "//placebear.com/440/440?a=.png"
-credentials: LLB
-phone_extension: "11"
+name: GP2-2
+image:
+credentials: AI
+phone_extension:
 ---
 
 With an interest in employment law, John works tirelessly to improve workplaces.
