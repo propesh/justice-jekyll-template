@@ -1,8 +1,8 @@
 ---
 name: Jane Doe
-image: "//placekitten.com/440/440?a=.png"
+image: /uploads/Profile.png
 credentials: LLB
-phone_extension: "02"
+phone_extension: '02'
 ---
 
-Jane has 19 years of experience in law, and specialises in property and business.
+Aaron Franklin Esq.<br><br>&nbsp;
