@@ -1,5 +1,5 @@
 body {
-	margin: 0;
+	margin: 50;
 	padding: 0;
 	background-color: #fefefe;
 }
@@ -29,7 +29,7 @@ header {
 
 	@media (min-width: $mobile-break) {
 		background-size: contain;
-		background-position: calc(70% - 300px) calc(100% + 20px);
+		background-position: calc(50% - 300px) calc(100% + 20px);
 
 		&.main-hero {
 			height: 80vh;
