@@ -1,5 +1,5 @@
 body {
-	margin: 50;
+	margin: 0;
 	padding: 0;
 	background-color: #fefefe;
 }
@@ -33,11 +33,11 @@ header {
 
 		&.main-hero {
 			height: 80vh;
-			background-position: calc(50% - 350px) calc(100% + 20px);
+			background-position: calc(70% - 450px) calc(100% + 20px);
 		}
 
 		.container {
-			text-align: center;
+			text-align: right;
 		}
 	}
 
