@@ -19,12 +19,12 @@ body {
 header {
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: calc(50% - 40px) 150px;
+	background-position: calc(80% - 40px) 150px;
 	height: 420px;
 	box-sizing: border-box;
 
 	.container {
-		text-align: center;
+		text-align: left;
 	}
 
 	@media (min-width: $mobile-break) {
